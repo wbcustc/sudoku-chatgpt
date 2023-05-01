@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sudoku-chatgpt/static/css/main.04cb8d40.css",
+    "main.js": "/sudoku-chatgpt/static/js/main.0b415d58.js",
+    "static/js/787.db3c2ab7.chunk.js": "/sudoku-chatgpt/static/js/787.db3c2ab7.chunk.js",
+    "index.html": "/sudoku-chatgpt/index.html",
+    "main.04cb8d40.css.map": "/sudoku-chatgpt/static/css/main.04cb8d40.css.map",
+    "main.0b415d58.js.map": "/sudoku-chatgpt/static/js/main.0b415d58.js.map",
+    "787.db3c2ab7.chunk.js.map": "/sudoku-chatgpt/static/js/787.db3c2ab7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04cb8d40.css",
+    "static/js/main.0b415d58.js"
+  ]
+}
